@@ -11,7 +11,7 @@
 <div class="content">
  
    
-<h1 align = "center"> Rushaine Goulbourne </h1>
+<h1 align = "center"> Nicholas Glenn </h1>
 <hr>
 
 <div class="topnav">
@@ -27,7 +27,7 @@
  <img align="right" src="https://rushainegoulbourne.github.io/Headshot.jpg"  width="450" height="640">
 
 <p>I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. 
- My areas of interest are Regional Economics, Urban Economics, and Applied Microeconomics.</p>
+ My areas of interest are Monetary Economics, Macroeconomics, and Digital Currency.</p>
 
 <p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
   
