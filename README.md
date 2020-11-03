@@ -24,7 +24,7 @@
   </div>
 </div>
 
- <img align="right" src="https://rushainegoulbourne.github.io/Headshot.jpg"  width="450" height="640">
+ <img align="right" src="https://rushainegoulbourne.github.io/hs1.png"  width="450" height="640">
 
 <p>I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. 
  My areas of interest are Monetary Economics, Macroeconomics, and Digital Currency.</p>
