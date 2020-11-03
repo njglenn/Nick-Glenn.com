@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.topnav {
+  overflow: hidden;
+  color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
+  background-color: rgba(120,1,1,1);
+  font-weight: 300;
+  font-size: 17px;
+  position: sticky; /* Keeps the Navigation Panel as we scroll down */
+}
+
+.topnav a {
+  float:left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 22px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+   color: orange;
+}
+
+.topnav a.active {
+  background-color: gray;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  /*.topnav a:not(:first-child) {display: none;} */
+   .topnav a{
+	display:none;
+  }	
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+@media print {
+  .topnav {
+    display: none;
+  }
+}
+
+/*
+#container { 
+	width: 75%; 
+	margin: 0 auto; 
+} 
+*/
+
+.footer {
+  /* position: fixed;*/
+   left: 3;
+   bottom: 0;
+   height: 75px;
+   padding:20px;
+  /* width: 90%; */
+   background-color: rgba(120,1,1,1);;
+   color: white;
+   text-align: center;
+}
+
+
+.active{
+	color: rgba(255, 255, 255, 255); /* text color 255 for all == white */
+	background-color: rgba(120,1,1,1);}
+
+
+
+.content {
+  max-width: 960px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+.issu-embed-container {
+
+ position: relative;
+
+ padding-bottom: 100%; /* set the aspect ratio here as (height / width) * 100% */
+
+ height: 0;
+
+ overflow: hidden;
+
+ max-width: 100%;
+
+}
+
+.issu-embed-container iframe {
+
+ position: absolute;
+
+ top: 0;
+
+ left: 0;
+
+ width: 100%;
+
+ height: 100%;
+
+}
