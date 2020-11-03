@@ -29,7 +29,7 @@
 <p>I am an Economics Ph.D. candidate in the department of Economics Finance and Legal Studies at the University of Alabama. 
  My areas of interest are Monetary Economics, Macroeconomics, and Digital Currency.</p>
 
-<p><a href="mailto:rdgoulbourne@crimson.ua.edu">Email me</a></p>
+<p><a href="mailto:nglenn@crimson.ua.edu">Email me</a></p>
   
 
  
