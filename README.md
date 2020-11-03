@@ -36,7 +36,7 @@
  <div style="clear:both;"></div>
  
  <div class="footer">
- <p>© Copyright 2020 Rushaine Goulbourne</p>
+ <p>© Copyright 2020 Nicholas Glenn</p>
 </div>
 </div>
 </body>
